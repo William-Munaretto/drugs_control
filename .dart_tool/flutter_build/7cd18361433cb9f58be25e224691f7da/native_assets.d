@@ -1,0 +1,1 @@
+ C:\\Users\\psygn\\Desktop\\Drugs\ Control\\drugs_control\\.dart_tool\\flutter_build\\7cd18361433cb9f58be25e224691f7da\\native_assets.yaml: 
